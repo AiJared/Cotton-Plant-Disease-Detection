@@ -37,3 +37,18 @@ Below are some images from the training dataset
 ![Screenshot 2022-12-20 121804](https://user-images.githubusercontent.com/78556152/208630043-dd56c4ec-99a8-4db3-99ed-86f6d573fce0.png)
 
 ![Screenshot 2022-12-20 121958](https://user-images.githubusercontent.com/78556152/208630440-3d51bf24-a8e5-4c64-8fc5-676dcebced2f.png)
+
+## Keras Model
+
+The dataset is configured for performance with two functions
+
+data.cache() and 
+
+data.prefetch()
+
+The RGB channel values are standardized to [0,1] range by the use of tf.keras.Rescalling
+
+A Keras model is created and compiled. Below is the summary of the model
+![Screenshot 2022-12-20 122640](https://user-images.githubusercontent.com/78556152/208631986-b1f35434-76a8-4171-b3cb-058cc6819566.png)
+
+
