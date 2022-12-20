@@ -65,6 +65,18 @@ The results are remarkable as seen with the training and validation accuracies h
 Plots on accuracy and loss for training and validation sets are created and below are the results
 ![Screenshot 2022-12-20 123558](https://user-images.githubusercontent.com/78556152/208633969-f949f08a-f7b1-4e56-92f9-e40e6149a82a.png)
 
-It is evident by the closeness of the margin between the training and validation accuracies that the model fit well.
+It is evident by the closeness of the margin between the training and validation accuracies that the model fits well.
 
-I addition to that, it is also evident that the accuracy values are high, that is, at 0.94 and above. This is indicates that the model learned well.
+In addition to that, it is also evident that the accuracy values are high, that is, at 0.94 and above. This indicates that the model learned well.
+
+## Predicting on New Data
+
+When an new image is tested for prediction, the model accurately put's it in the right class as shown below.
+
+![Screenshot 2022-12-20 145253](https://user-images.githubusercontent.com/78556152/208661073-d50854f3-93c0-4ab4-b078-83d64a6f0388.png)
+
+## Save model
+
+The model is saved then served with tensorflow serving in docker during deployment.
+![Screenshot 2022-12-20 145612](https://user-images.githubusercontent.com/78556152/208661539-789ce0ae-6148-4c56-9e76-87dc64a517d9.png)
+
