@@ -31,3 +31,9 @@ The first class is of diseased crops' images and
 The second class is of healthy crops' images as shown below
 
 ![Screenshot 2022-12-20 121508](https://user-images.githubusercontent.com/78556152/208629407-e4b4ee16-2afc-4105-8bf8-653d3e49abf0.png)
+
+Below are some images from the training dataset
+
+![Screenshot 2022-12-20 121804](https://user-images.githubusercontent.com/78556152/208630043-dd56c4ec-99a8-4db3-99ed-86f6d573fce0.png)
+
+![Screenshot 2022-12-20 121958](https://user-images.githubusercontent.com/78556152/208630440-3d51bf24-a8e5-4c64-8fc5-676dcebced2f.png)
