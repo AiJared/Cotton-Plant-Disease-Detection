@@ -52,3 +52,19 @@ A Keras model is created and compiled. Below is the summary of the model
 ![Screenshot 2022-12-20 122640](https://user-images.githubusercontent.com/78556152/208631986-b1f35434-76a8-4171-b3cb-058cc6819566.png)
 
 
+## Training the Model
+
+The model is then trained for 10 epochs as shown below
+
+![Screenshot 2022-12-20 123010](https://user-images.githubusercontent.com/78556152/208632788-4e1a3fbb-8406-48f5-ba72-ec6e66c6290b.png)
+
+The results are remarkable as seen with the training and validation accuracies having good values
+
+## Visualize Training Results
+
+Plots on accuracy and loss for training and validation sets are created and below are the results
+![Screenshot 2022-12-20 123558](https://user-images.githubusercontent.com/78556152/208633969-f949f08a-f7b1-4e56-92f9-e40e6149a82a.png)
+
+It is evident by the closeness of the margin between the training and validation accuracies that the model fit well.
+
+I addition to that, it is also evident that the accuracy values are high, that is, at 0.94 and above. This is indicates that the model learned well.
