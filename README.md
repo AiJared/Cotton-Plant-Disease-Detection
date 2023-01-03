@@ -95,3 +95,7 @@ Two methods are used to solve overfitting:
 
   1. Data Augmentation- this creates modified copies of the dataset using existing data to artificially increase the training set.
   2. Dropout - This is a layer that randomly sets input units to 0 with a frequency of rate at each step during training time, which helps prevent overfitting.
+
+Below is an example of augmented images:
+
+![sample_augmented_images](https://user-images.githubusercontent.com/78556152/210369044-61e52e36-b7f1-4b65-aa41-325d998cc47a.png)
