@@ -15,7 +15,12 @@ The diseases identified by this model are:
   
   . Target sport.
 
-![Screenshot 2022-12-20 120546](https://user-images.githubusercontent.com/78556152/208627955-c203a0fb-e401-4eb7-99bc-32481611242a.png)
+The data used in this project contains images of all the 5 types of diseases listed above including those of healthy leaves for comparison with the diseased ones.
+
+Below is an example of a healthy cotton plant's leaf:
+
+![sample-healthy-leaf](https://user-images.githubusercontent.com/78556152/210360017-06e7a605-2214-4074-9584-160850d47bcd.png)
+
 
 ## Defining some parameters for the loader
 
