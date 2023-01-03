@@ -83,10 +83,11 @@ Plots on accuracy and loss for training and validation sets are created and belo
 
 ![training_and_validation_accuracy_and_loss_1](https://user-images.githubusercontent.com/78556152/210365383-57cdef02-3f4a-4e15-ae72-639fc8a1bcea.png)
 
+From visualizing the training results above, the training accuracy is high but the validation accuracy is very low. The same applies to loss; the training loss is lower than the validation loss.
 
-It is evident by the closeness of the margin between the training and validation accuracies that the model fits well.
+This shows that the model did not fit well causing a problem of overfitting that resulted into huge margins between training and validation results.
 
-In addition to that, it is also evident that the accuracy values are high, that is, at 0.94 and above. This indicates that the model learned well.
+Some measures are taken to reduce overfitting below.
 
 ## Predicting on New Data
 
