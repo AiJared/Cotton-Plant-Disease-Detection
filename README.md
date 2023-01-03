@@ -65,8 +65,8 @@ data.prefetch()
 The RGB channel values are standardized to [0,1] range by the use of tf.keras.Rescalling
 
 A Keras model is created and compiled. Below is the summary of the model
-![Screenshot 2022-12-20 122640](https://user-images.githubusercontent.com/78556152/208631986-b1f35434-76a8-4171-b3cb-058cc6819566.png)
 
+![Screenshot 2023-01-03 160123](https://user-images.githubusercontent.com/78556152/210362238-563e08ef-4545-4875-9a9f-444dacb6e0ce.png)
 
 ## Training the Model
 
