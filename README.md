@@ -80,7 +80,9 @@ The results are not remarkable with validation accuracy being only 0.6170 despit
 ## Visualize Training Results
 
 Plots on accuracy and loss for training and validation sets are created and below are the results
-![Screenshot 2022-12-20 123558](https://user-images.githubusercontent.com/78556152/208633969-f949f08a-f7b1-4e56-92f9-e40e6149a82a.png)
+
+![training_and_validation_accuracy_and_loss_1](https://user-images.githubusercontent.com/78556152/210365383-57cdef02-3f4a-4e15-ae72-639fc8a1bcea.png)
+
 
 It is evident by the closeness of the margin between the training and validation accuracies that the model fits well.
 
