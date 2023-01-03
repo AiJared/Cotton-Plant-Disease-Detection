@@ -1,8 +1,19 @@
-# Crop-Disease-Detection
-A deep learning project for plant disease detection using tensorflow
+# Cotton-Plant-Disease-Detection
+A deep learning project for cotton plant disease detection using tensorflow
 
-Given a dataset of images of healthy and diseased crops' leaves, this project classifies healthy crops and diseased crops.
-Below is an example of a healthy leaf of a crop.
+It mainly focus on the diseases which occurs only on leaves. However, more research is done on diseases that occur on stem, flowers buds and boll.
+
+The diseases identified by this model are:
+
+  . Diseases caused by aphids,
+  
+  . Diseases caused by army worms,
+  
+  . Bacterial Blight,
+  
+  . Powdery Mildew and
+  
+  . Target sport.
 
 ![Screenshot 2022-12-20 120546](https://user-images.githubusercontent.com/78556152/208627955-c203a0fb-e401-4eb7-99bc-32481611242a.png)
 
