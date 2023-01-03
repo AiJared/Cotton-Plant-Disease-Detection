@@ -72,9 +72,10 @@ A Keras model is created and compiled. Below is the summary of the model
 
 The model is then trained for 10 epochs as shown below
 
-![Screenshot 2022-12-20 123010](https://user-images.githubusercontent.com/78556152/208632788-4e1a3fbb-8406-48f5-ba72-ec6e66c6290b.png)
+![Screenshot 2023-01-03 161615](https://user-images.githubusercontent.com/78556152/210364558-340c558f-74d9-4082-9a4d-dd564fa465a6.png)
 
-The results are remarkable as seen with the training and validation accuracies having good values
+
+The results are not remarkable with validation accuracy being only 0.6170 despite training accuracy being 0.9895
 
 ## Visualize Training Results
 
