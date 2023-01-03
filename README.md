@@ -117,3 +117,10 @@ Plotting a graph of Accuracy and loss, the training and validation results are c
 A new image is given to the model for prediction, the model predicts the image's class with a high degree of accuracy and confidence.
 
 ![Screenshot 2023-01-03 165756](https://user-images.githubusercontent.com/78556152/210371600-4312f7ec-f235-4b6e-8a2e-6e9bd4ee9fcc.png)
+
+## Saving the Model and Serving it with tensorflow serving
+
+The model is saved and served with tensorflow serving in docker during production.
+
+![Screenshot 2023-01-03 170143](https://user-images.githubusercontent.com/78556152/210372276-feb6398c-df68-4d29-b5bc-2ac565c5db47.png)
+
