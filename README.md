@@ -87,16 +87,6 @@ From visualizing the training results above, the training accuracy is high but t
 
 This shows that the model did not fit well causing a problem of overfitting that resulted into huge margins between training and validation results.
 
-Some measures are taken to reduce overfitting below.
+Some measures are taken to splve overfitting below.
 
-## Predicting on New Data
-
-When an new image is tested for prediction, the model accurately put's it in the right class as shown below.
-
-![Screenshot 2022-12-20 145253](https://user-images.githubusercontent.com/78556152/208661073-d50854f3-93c0-4ab4-b078-83d64a6f0388.png)
-
-## Save model
-
-The model is saved then served with tensorflow serving in docker during deployment.
-![Screenshot 2022-12-20 145612](https://user-images.githubusercontent.com/78556152/208661539-789ce0ae-6148-4c56-9e76-87dc64a517d9.png)
-
+## Solving the problem of overfitting
