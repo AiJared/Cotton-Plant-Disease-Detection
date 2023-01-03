@@ -1,7 +1,7 @@
 # Cotton-Plant-Disease-Detection
 A deep learning project for cotton plant disease detection using tensorflow
 
-It mainly focus on the diseases which occurs only on leaves. However, more research is done on diseases that occur on stem, flowers buds and boll.
+It mainly focus on the diseases which occur only on leaves. However, more research is done on diseases that occur on stem, flowers, buds and boll.
 
 The diseases identified by this model are:
 
@@ -87,7 +87,7 @@ From visualizing the training results above, the training accuracy is high but t
 
 This shows that the model did not fit well causing a problem of overfitting that resulted into huge margins between training and validation results.
 
-Some measures are taken to splve overfitting below.
+Some measures are taken to solve the overfitting problem below.
 
 ## Solving the problem of Overfitting
 
