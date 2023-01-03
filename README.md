@@ -112,3 +112,8 @@ Plotting a graph of Accuracy and loss, the training and validation results are c
 
 ![training_and_validation_accuracy_and_loss_2](https://user-images.githubusercontent.com/78556152/210370737-6f5a82f5-940e-4967-bce5-50fe9d4780c5.png)
 
+## Predicting on New Data
+
+A new image is given to the model for prediction, the model predicts the image's class with a high degree of accuracy and confidence.
+
+![Screenshot 2023-01-03 165756](https://user-images.githubusercontent.com/78556152/210371600-4312f7ec-f235-4b6e-8a2e-6e9bd4ee9fcc.png)
