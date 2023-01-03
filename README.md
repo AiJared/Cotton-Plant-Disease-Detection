@@ -40,13 +40,14 @@ Validation set is given 20% of the data
 
 ## Classes
 
-The dataset is classified into two classes based on the images.
+The dataset is classified into six classes based on the plant's images of different diseases and the healthy ones.
 
-The first class is of diseased crops' images and 
+This classes include; Aphids, Army Worms, Bacterail Blight, Healthy leaf, Powdery Mildew and Target Spot.
 
-The second class is of healthy crops' images as shown below
+The image below shows the classes of the dataset:
 
-![Screenshot 2022-12-20 121508](https://user-images.githubusercontent.com/78556152/208629407-e4b4ee16-2afc-4105-8bf8-653d3e49abf0.png)
+![Screenshot 2023-01-03 155358](https://user-images.githubusercontent.com/78556152/210361283-94b2de53-76cf-4787-9a65-75ea18eee1f7.png)
+
 
 Below are some images from the training dataset
 
