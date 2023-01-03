@@ -99,3 +99,7 @@ Two methods are used to solve overfitting:
 Below is an example of augmented images:
 
 ![sample_augmented_images](https://user-images.githubusercontent.com/78556152/210369044-61e52e36-b7f1-4b65-aa41-325d998cc47a.png)
+
+The code snippet below shows a new model with a dropout layer
+
+![Screenshot 2023-01-03 164714](https://user-images.githubusercontent.com/78556152/210369702-e78e45e3-4631-4d37-90db-e6c027b56293.png)
