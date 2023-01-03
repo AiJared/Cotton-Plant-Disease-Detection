@@ -51,9 +51,8 @@ The image below shows the classes of the dataset:
 
 Below are some images from the training dataset
 
-![Screenshot 2022-12-20 121804](https://user-images.githubusercontent.com/78556152/208630043-dd56c4ec-99a8-4db3-99ed-86f6d573fce0.png)
+![sample_training_diseases_images](https://user-images.githubusercontent.com/78556152/210361611-af3d4977-5c15-4e4f-b591-4f690e390244.png)
 
-![Screenshot 2022-12-20 121958](https://user-images.githubusercontent.com/78556152/208630440-3d51bf24-a8e5-4c64-8fc5-676dcebced2f.png)
 
 ## Keras Model
 
