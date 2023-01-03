@@ -124,3 +124,6 @@ The model is saved and served with tensorflow serving in docker during productio
 
 ![Screenshot 2023-01-03 170143](https://user-images.githubusercontent.com/78556152/210372276-feb6398c-df68-4d29-b5bc-2ac565c5db47.png)
 
+## Conclusion
+
+There are a lot of crop diseases that affect different crops. In this project I focused on those that affect cotton plant specifically on the leaves. This model has done a good job of training and classifying images of five diseases that affect leaves of a cotton plant after which it can then detect a disease if new data is given to it based on those five classes of diseases. I can conclude that it is very possible to train a deep learning model to detect different types of crop diseases when given enough data to train on.
