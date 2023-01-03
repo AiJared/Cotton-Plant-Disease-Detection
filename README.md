@@ -89,4 +89,9 @@ This shows that the model did not fit well causing a problem of overfitting that
 
 Some measures are taken to splve overfitting below.
 
-## Solving the problem of overfitting
+## Solving the problem of Overfitting
+
+Two methods are used to solve overfitting:
+
+  1. Data Augmentation- this creates modified copies of the dataset using existing data to artificially increase the training set.
+  2. Dropout - This is a layer that randomly sets input units to 0 with a frequency of rate at each step during training time, which helps prevent overfitting.
