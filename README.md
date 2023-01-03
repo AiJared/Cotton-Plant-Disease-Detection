@@ -103,3 +103,12 @@ Below is an example of augmented images:
 The code snippet below shows a new model with a dropout layer
 
 ![Screenshot 2023-01-03 164714](https://user-images.githubusercontent.com/78556152/210369702-e78e45e3-4631-4d37-90db-e6c027b56293.png)
+
+## Training the New Model and Visualizing the Training Results
+
+The new model trains with remarkable results. The training accuracy is 80% and the validation accuracy is 70%.
+
+Plotting a graph of Accuracy and loss, the training and validation results are closer to each other indicating that the model fit well as shown in the image below.
+
+![training_and_validation_accuracy_and_loss_2](https://user-images.githubusercontent.com/78556152/210370737-6f5a82f5-940e-4967-bce5-50fe9d4780c5.png)
+
